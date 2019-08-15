@@ -1,18 +1,9 @@
-#+TITLE: SFORTH-MODEL
+#+TITLE: Data Structures and Algorithms in C
 #+AUTHOR: Islam Omar Ahmed
 #+EMAIL: io1131@fayoum.edu.eg
 
 #+OPTIONS: H:4
 
-* DICTIONARY: 
-|--------------------------------------------|
-|                     NAME                   |
-|------------------+-------------------+-----|
-| First Word Index | Second Word Index | ... |                   |                   |     |
-|--------------------------------------------|
-
-
-- Containing Words
 
 
 
