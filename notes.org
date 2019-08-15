@@ -4,6 +4,14 @@
 
 #+OPTIONS: H:4
 
-
+* Get Input:
+** Non-String:
+   * scanf("%i" , &int);
+   * scanf("%d" , &decimal);
+   * scanf("%f" , &double);
+   * scanf("%c" , &char);
+   * scanf("%p" , &ptr);
+** String 
+   * fgets(word, sizeof(word), stdin);
 
 
